@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16 14:49 (한국시간)",
+ "updated": "2026-11-16 20:52 (한국시간)",
  "items": [
   {
    "id": "binance-hack-2026-10-29",
@@ -7,13 +7,13 @@
    "level": 2,
    "category": "바이낸스 해킹 · 입출금 중단 뒤 재개",
    "title_ko": "바이낸스, 63억 달러(약 8~9조 원) 규모 해킹 — 입출금 중단 뒤 재개, 손실 전액 보전 약속",
-   "summary_ko": "10월 29일 바이낸스가 역대 최대 규모의 해킹을 당해 입출금을 멈췄다가 11월 1일부터 차례로 다시 열었습니다. 빠진 자산의 약 98%를 자체 자금으로 다시 채웠고, 11월 8일에는 HYPE·APT 출금도 다시 열렸습니다. 다만 INJ·NEAR·LTC는 BSC(BEP20)로만 출금되고 PLASMA는 아직 막혀 있어 사건이 끝나지 않았으므로 2단계(전 종목 −20점)를 유지합니다.",
-   "url": "https://news.bitcoin.com/crypto-news/binance-restores-hype-apt-as-data-reveals-billions-in-reserve-outflows/",
+   "summary_ko": "10월 29일 바이낸스가 역대 최대 규모의 해킹을 당해 입출금을 멈췄다가 11월 1일부터 차례로 다시 열었습니다. 11월 14일 바이낸스는 지난 한 주 동안 87개 네트워크의 출금을 다시 열었고, 남은 네트워크·자산도 다음 주 말까지 열겠다고 밝혔습니다(목표일 뿐 약속은 아님). 아직 일부 코인은 묶여 있어 사건이 끝나지 않았으므로 2단계(전 종목 −20점)를 유지합니다.",
+   "url": "https://news.bitcoin.com/featured/binance-reopens-87-networks-following-historic-6-3-billion-breach/",
    "source": "Bitcoin.com News",
    "since": "2026-10-29",
    "expires": null,
-   "stats_ko": "손실 보전 약 98% · 비트코인 준비금 약 7.7% 감소(11/8, CryptoQuant) · 최근 일간 유출은 진정세",
-   "updated": "2026-11-15 16:42 (한국시간)"
+   "stats_ko": "출금 재개 87개 네트워크(11/14 발표) · 남은 자산 재개 목표: 11월 넷째 주 말 · 처리 지연 가능 안내",
+   "updated": "2026-11-16 20:52 (한국시간)"
   },
   {
    "id": "initia-hack-2026-11-10",
