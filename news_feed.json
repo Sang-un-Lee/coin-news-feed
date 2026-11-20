@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20 14:48 (한국시간)",
+ "updated": "2026-11-20 20:50 (한국시간)",
  "items": [
   {
    "id": "binance-hack-2026-10-29",
@@ -29,6 +29,76 @@
    "expires": "2026-11-17",
    "stats_ko": "유출 약 327만 달러 · 약 216만 달러는 멈춘 체인에 묶임 · 3주 새 두 번째 해킹",
    "updated": "2026-11-15 17:51 (한국시간)"
+  },
+  {
+   "id": "bank-monitoring-2026-11-20",
+   "scope": "coin",
+   "symbol": "BANKUSDT",
+   "level": 3,
+   "category": "monitoring",
+   "title_ko": "Lorenzo Protocol(BANK) — 바이낸스 '모니터링 태그' 부여",
+   "summary_ko": "바이낸스가 11월 20일 Lorenzo Protocol(BANK)에 모니터링 태그를 붙였습니다. 이 태그는 가격 변동과 위험이 다른 코인보다 크다는 경고이며, 상장 기준에 못 미치면 나중에 상장폐지될 수 있다는 뜻입니다. 태그가 빠질 때까지 이 종목을 감점합니다.",
+   "url": "https://fxnewsgroup.com/forex-news/cryptocurrency/binance-to-add-six-tokens-to-monitoring-tag-list/",
+   "source": "FX News Group",
+   "since": "2026-11-20",
+   "stats_ko": "같은 날 태그 부여: BANK·INIT·MITO·ONE·THE·ZIL (MITO는 선물 정산 중이라 제외)",
+   "updated": "2026-11-20 20:50 (한국시간)"
+  },
+  {
+   "id": "init-monitoring-2026-11-20",
+   "scope": "coin",
+   "symbol": "INITUSDT",
+   "level": 3,
+   "category": "monitoring",
+   "title_ko": "Initia(INIT) — 바이낸스 '모니터링 태그' 부여",
+   "summary_ko": "바이낸스가 11월 20일 Initia(INIT)에 모니터링 태그를 붙였습니다. 이 태그는 가격 변동과 위험이 다른 코인보다 크다는 경고이며, 상장 기준에 못 미치면 나중에 상장폐지될 수 있다는 뜻입니다. 태그가 빠질 때까지 이 종목을 감점합니다.",
+   "url": "https://fxnewsgroup.com/forex-news/cryptocurrency/binance-to-add-six-tokens-to-monitoring-tag-list/",
+   "source": "FX News Group",
+   "since": "2026-11-20",
+   "stats_ko": "같은 날 태그 부여: BANK·INIT·MITO·ONE·THE·ZIL (MITO는 선물 정산 중이라 제외)",
+   "updated": "2026-11-20 20:50 (한국시간)"
+  },
+  {
+   "id": "one-monitoring-2026-11-20",
+   "scope": "coin",
+   "symbol": "ONEUSDT",
+   "level": 3,
+   "category": "monitoring",
+   "title_ko": "Harmony(ONE) — 바이낸스 '모니터링 태그' 부여",
+   "summary_ko": "바이낸스가 11월 20일 Harmony(ONE)에 모니터링 태그를 붙였습니다. 이 태그는 가격 변동과 위험이 다른 코인보다 크다는 경고이며, 상장 기준에 못 미치면 나중에 상장폐지될 수 있다는 뜻입니다. 태그가 빠질 때까지 이 종목을 감점합니다.",
+   "url": "https://fxnewsgroup.com/forex-news/cryptocurrency/binance-to-add-six-tokens-to-monitoring-tag-list/",
+   "source": "FX News Group",
+   "since": "2026-11-20",
+   "stats_ko": "같은 날 태그 부여: BANK·INIT·MITO·ONE·THE·ZIL (MITO는 선물 정산 중이라 제외)",
+   "updated": "2026-11-20 20:50 (한국시간)"
+  },
+  {
+   "id": "the-monitoring-2026-11-20",
+   "scope": "coin",
+   "symbol": "THEUSDT",
+   "level": 3,
+   "category": "monitoring",
+   "title_ko": "THENA(THE) — 바이낸스 '모니터링 태그' 부여",
+   "summary_ko": "바이낸스가 11월 20일 THENA(THE)에 모니터링 태그를 붙였습니다. 이 태그는 가격 변동과 위험이 다른 코인보다 크다는 경고이며, 상장 기준에 못 미치면 나중에 상장폐지될 수 있다는 뜻입니다. 태그가 빠질 때까지 이 종목을 감점합니다.",
+   "url": "https://fxnewsgroup.com/forex-news/cryptocurrency/binance-to-add-six-tokens-to-monitoring-tag-list/",
+   "source": "FX News Group",
+   "since": "2026-11-20",
+   "stats_ko": "같은 날 태그 부여: BANK·INIT·MITO·ONE·THE·ZIL (MITO는 선물 정산 중이라 제외)",
+   "updated": "2026-11-20 20:50 (한국시간)"
+  },
+  {
+   "id": "zil-monitoring-2026-11-20",
+   "scope": "coin",
+   "symbol": "ZILUSDT",
+   "level": 3,
+   "category": "monitoring",
+   "title_ko": "Zilliqa(ZIL) — 바이낸스 '모니터링 태그' 부여",
+   "summary_ko": "바이낸스가 11월 20일 Zilliqa(ZIL)에 모니터링 태그를 붙였습니다. 이 태그는 가격 변동과 위험이 다른 코인보다 크다는 경고이며, 상장 기준에 못 미치면 나중에 상장폐지될 수 있다는 뜻입니다. 태그가 빠질 때까지 이 종목을 감점합니다.",
+   "url": "https://fxnewsgroup.com/forex-news/cryptocurrency/binance-to-add-six-tokens-to-monitoring-tag-list/",
+   "source": "FX News Group",
+   "since": "2026-11-20",
+   "stats_ko": "같은 날 태그 부여: BANK·INIT·MITO·ONE·THE·ZIL (MITO는 선물 정산 중이라 제외)",
+   "updated": "2026-11-20 20:50 (한국시간)"
   }
  ]
 }
