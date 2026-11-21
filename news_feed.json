@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 14:58 (한국시간)",
+ "updated": "2026-11-21 20:52 (한국시간)",
  "items": [
   {
    "id": "binance-hack-2026-10-29",
@@ -105,14 +105,14 @@
    "scope": "market",
    "level": 1,
    "category": "세계 증시 급락 · 코인 동반 폭락",
-   "title_ko": "미국 증시 급락에 코인 시장 전체 폭락 — 비트코인 6만 달러 아래로",
-   "summary_ko": "11월 20일 엔비디아 등 인공지능 주식이 크게 떨어지면서 나스닥이 하루에 5% 넘게 빠졌고, 코인 시장도 함께 무너졌습니다. 비트코인은 하루 약 6% 떨어져 7월 이후 처음 6만 달러 아래로 내려갔고, 이더리움·솔라나·BNB·XRP 등 주요 알트코인도 7~10% 떨어졌습니다. 시장 전체 악재라 특정 종목 감점은 없습니다.",
-   "url": "https://fool.com/coverage/stock-market-today/2026/11/20/crypto-market-today-nov-20-bitcoin-plunges-below-usd60-000-as-wall-street-s-sell-off-spreads-to-crypto",
-   "source": "The Motley Fool",
-   "since": "2026-11-20",
-   "expires": "2026-11-30",
-   "stats_ko": "비트코인 약 -6%(약 5만 8천 달러) · 이더리움 약 -9% · 솔라나 약 -8% · BNB 약 -8% · 나스닥 -5% 이상 · 미국 증시 이번 주 약 7조 달러 손실",
-   "updated": "2026-11-21 14:58 (한국시간)"
+   "title_ko": "미국 증시 급락에 코인 시장 전체 폭락 — 비트코인 5만 6천 달러 아래로",
+   "summary_ko": "11월 20일 엔비디아 등 인공지능 주식이 크게 떨어지면서 코인 시장도 함께 무너졌고, 11월 21일(세계표준시)에는 하락이 더 커졌습니다. 비트코인은 하루 약 10% 떨어져 약 5만 5,800달러로 2024년 9월 이후 가장 낮아졌고, 이더리움·솔라나·XRP·BNB도 모두 약 10% 떨어졌습니다. 가장 크게 떨어진 날이 21일이라 사건 날짜를 21일로 바꿨으며, 시장 전체 악재라 특정 종목 감점은 없습니다.",
+   "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199",
+   "source": "Investing.com",
+   "since": "2026-11-21",
+   "expires": "2026-12-01",
+   "stats_ko": "비트코인 약 -10%(약 5만 5,800달러) · 이더리움 -10% · 솔라나 -10% · XRP -10% · BNB -11% · 하루 청산 약 24억 달러",
+   "updated": "2026-11-21 20:52 (한국시간)"
   }
  ]
 }
