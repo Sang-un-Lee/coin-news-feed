@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 14:48 (한국시간)",
+ "updated": "2026-11-22 20:52 (한국시간)",
  "items": [
   {
    "id": "binance-hack-2026-10-29",
@@ -29,6 +29,21 @@
    "expires": "2026-11-17",
    "stats_ko": "유출 약 327만 달러 · 약 216만 달러는 멈춘 체인에 묶임 · 3주 새 두 번째 해킹",
    "updated": "2026-11-15 17:51 (한국시간)"
+  },
+  {
+   "id": "cyber-hack-2026-11-21",
+   "scope": "coin",
+   "symbol": "CYBERUSDT",
+   "level": 2,
+   "category": "hack",
+   "title_ko": "Cyber(CYBER) 브리지 해킹 — 가짜 CYBER 521만 개 발행, 약 100만 달러 유출",
+   "summary_ko": "11월 21일 누군가 솔라나에서 CYBER 토큰 약 521만 개를 몰래 만들어 낸 뒤, 이더리움 쪽 브리지 보관함에서 같은 양의 진짜 CYBER를 빼내 약 100만 달러(약 14억 원) 어치 이더리움으로 팔았습니다. Cyber 측은 '예상치 못한 발행'이 있었다고 밝히고 조사 중이며, 브리지와 거래소 입금을 쓰지 말라고 안내했습니다. 업비트·빗썸은 CYBER 입출금을 멈췄고, 프로젝트 보안 사고가 확인되어 CYBER 종목을 감점합니다.",
+   "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+   "source": "The Block",
+   "since": "2026-11-21",
+   "expires": "2026-11-28",
+   "stats_ko": "몰래 발행 5,213,000 CYBER · 판매액 약 96만~110만 달러 · 업비트·빗썸 입출금 중단 · 원인 조사 중",
+   "updated": "2026-11-22 20:52 (한국시간)"
   },
   {
    "id": "bank-monitoring-2026-11-20",
