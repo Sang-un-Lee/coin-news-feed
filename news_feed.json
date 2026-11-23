@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23 20:48 (한국시간)",
+ "updated": "2026-11-24 08:48 (한국시간)",
  "items": [
   {
    "id": "binance-hack-2026-10-29",
@@ -44,6 +44,21 @@
    "expires": "2026-11-28",
    "stats_ko": "몰래 발행 5,213,000 CYBER · 판매액 약 96만~110만 달러 · 업비트·빗썸 입출금 중단 · 원인 조사 중",
    "updated": "2026-11-22 20:52 (한국시간)"
+  },
+  {
+   "id": "ace-hack-2026-11-22",
+   "scope": "coin",
+   "symbol": "ACEUSDT",
+   "level": 2,
+   "category": "hack",
+   "title_ko": "Fusionist(ACE) 브리지 해킹 — 가짜 ACE 대량 발행, 브리지 보관함 약 370만 달러 비워짐",
+   "summary_ko": "11월 22일 누군가 Fusionist 브리지의 발행 권한을 악용해 BNB체인에서 가짜 ACE를 엄청나게 만들어 팔았고(약 200만 달러), 값이 무너진 가짜 ACE를 다른 사람들이 사서 브리지에서 진짜 ACE로 바꿔 가면서 보관함의 진짜 ACE 약 5,370만 개(약 370만 달러)가 빠져나갔습니다. Fusionist는 'ACE 전송·거래·브리지 사용을 멈추라'고 안내했고, Gate는 해킹을 확인하고 해당 시간대 거래를 되돌리며 ACE 선물을 정리하기로 했습니다. 프로젝트 해킹이 확인되어 ACE 종목을 감점합니다.",
+   "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+   "source": "The Block",
+   "since": "2026-11-22",
+   "expires": "2026-11-29",
+   "stats_ko": "공격자 판매 약 200만 달러 · 브리지에서 빠진 ACE 약 5,370만 개(약 370만 달러, 유통량의 약 절반) · ACE 24시간 약 -20% · Gate 거래 되돌림·선물 상장폐지",
+   "updated": "2026-11-24 08:48 (한국시간)"
   },
   {
    "id": "bank-monitoring-2026-11-20",
